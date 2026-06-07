@@ -1,4 +1,4 @@
-<img width="1915" height="1079" alt="Screenshot 2026-06-07 114726" src="https://github.com/user-attachments/assets/2fde14dd-a560-4763-ac3c-9d066019f631" /># 🎥 Real-time Person Background Remover (Tách nền người thời gian thực)
+# 🎥 Real-time Person Background Remover (Tách nền người thời gian thực)
 
 Dự án thực hành môn học **Thị giác máy tính và ứng dụng**. Ứng dụng này sử dụng các mô hình học sâu (Deep Learning) thuộc họ **U-Net** và **DeepLabV3+** để phân đoạn ảnh người (Person Image Segmentation) và thực hiện tách/thay thế nền hoặc làm mờ nền trong thời gian thực từ webcam hoặc hình ảnh tải lên.
 
