@@ -1,0 +1,8 @@
+opencv-python
+numpy
+tensorflow
+streamlit
+torch
+torchvision
+segmentation-models-pytorch
+Pillow
